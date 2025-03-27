@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar{
+  display: none;
+}
+body{
+  background-color: rgb(16, 15, 15);
+}
+#dropdown options :hover{
+  color: gold;
+}
